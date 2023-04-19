@@ -67,4 +67,4 @@ aliquip
 
 ![Mynd á netinu](https://tskoli.is/wp-content/uploads/2019/06/skolavorduholt-595x440.jpg)
 
-[![Youtube myndband](https://img.youtube.com/vi/abcdefghijk/0.jpg)](https://www.youtube.com/watch?v=HUBNt18RFbo)
+[![Youtube myndband](https://www.youtube.com/watch?v=HUBNt18RFbo)]
