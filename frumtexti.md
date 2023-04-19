@@ -1,7 +1,7 @@
 # Irure veniam deserunt excepteur
 
 1. [Eu excepteur id pariatur velit](#Eu)
-2. [Ex est eiusmod quis in tempor](#fyrirsogn-2)
+2. [Ex est eiusmod quis in tempor](#fyrirsogn)
     - [Nulla consequat in duis quis](#fyrirsogn-21)
 3. [Ad esse sit nostrud est sit sunt](#fyrirsogn-3)
     - [Eiusmod tempor et fugiat](#fyrirsogn-31)
@@ -13,7 +13,7 @@
 
 Et sit incididunt ex ad quis. Tempor dolor velit laborum qui. Consequat occaecat anim ut deserunt laboris ea amet et.
 
-## Ex est eiusmod quis in tempor {#fyrirsogn-2}
+## Ex est eiusmod quis in tempor {#fyrirsogn}
 
 Minim dolor et cillum Lorem cillum sunt. Duis eiusmod anim anim ut dolor. Nulla non voluptate ex est anim elit pariatur. Qui dolor ut nostrud dolor. Duis ipsum exercitation pariatur in. Anim voluptate irure aliquip aliquip magna et dolore. Ex nostrud consectetur consequat dolor incididunt minim consequat sint tempor cillum ex.
 
