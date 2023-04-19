@@ -1,6 +1,6 @@
 # Irure veniam deserunt excepteur
 
-1. [Eu excepteur id pariatur velit](#fyrirsogn-1)
+1. [Eu excepteur id pariatur velit](#Eu)
 2. [Ex est eiusmod quis in tempor](#fyrirsogn-2)
     - [Nulla consequat in duis quis](#fyrirsogn-21)
 3. [Ad esse sit nostrud est sit sunt](#fyrirsogn-3)
@@ -9,7 +9,7 @@
 4. [Commodo occaecat](#fyrirsogn-4)
 5. [Occaecat amet labore](#fyrirsogn-5)
 
-## Eu excepteur id pariatur velit {#fyrirsogn-1}
+## Eu excepteur id pariatur velit
 
 Et sit incididunt ex ad quis. Tempor dolor velit laborum qui. Consequat occaecat anim ut deserunt laboris ea amet et.
 
