@@ -31,10 +31,10 @@ Eiusmod tempor et fugiat
 
 ```mermaid
 pie 
-    title Tolur ur toflunni;
-    "midja": 12;
-    "vinstri": 34;
-    "haegri": 56;
+    title "Tolur ur toflunni"
+    "midja": 12
+    "vinstri": 34
+    "haegri": 56
 ```
 
 
