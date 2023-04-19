@@ -31,11 +31,19 @@ tempor  et  fugiat
 
 Eiusmod tempor et fugiat
 
-
-
+```mermaid
+    title Cookie Consumption;
+    colors ["#FFC107", "#3F51B5", "#009688"];
+    "Chocolate Chip" : 42;
+    "Oatmeal Raisin" : 27;
+    "Sugar" : 31;
+    width 500;
+    background-color #f0f0f0;
+```
+### Dolore ut velit
 ```mermaid
   pie
-    title Tölur úr töflunni hér að ofan;
+    title Tölur úr töflunni hér að;
     colors ["#FFC107", "#3F51B5", "#009688"];
     "Miðja" : 12;
     "Vinstri" : 34;
@@ -44,7 +52,6 @@ Eiusmod tempor et fugiat
     background-color #f0f0f0;
 ```
 
-### Dolore ut velit
 void setup() {
     Serial.begin(9600);
     Serial.println("Halló");
