@@ -32,11 +32,10 @@ tempor  et  fugiat
 Eiusmod tempor et fugiat
 
 ```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
+  pie TD;
+      miðja: 12;
+      vinstri: 34;
+      hægri: 56;
 ```
 
 
