@@ -41,7 +41,13 @@ Eiusmod tempor et fugiat
     background-color #f0f0f0
 ```
 ### Dolore ut velit
-
+```mermaid
+  graph TD;
+      A-->B;
+      A-->C;
+      B-->D;
+      C-->D;
+```
 
 void setup() {
     Serial.begin(9600);
