@@ -31,16 +31,12 @@ tempor  et  fugiat
 
 Eiusmod tempor et fugiat
 
-```mermaid
-    pie
-    title Cookie Consumption;
-    colors ["#FFC107", "#3F51B5", "#009688"]
-    "Chocolate Chip" : 42
-    "Oatmeal Raisin" : 27
-    "Sugar" : 31
-    width 500
-    background-color #f0f0f0
-```
+pie title Pets adopted by volunteers
+    "Dogs" : 386
+    "Cats" : 85
+    "Rats" : 15
+
+    
 ### Dolore ut velit
 
 void setup() {
