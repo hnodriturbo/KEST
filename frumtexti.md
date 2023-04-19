@@ -33,22 +33,15 @@ Eiusmod tempor et fugiat
 
 ```mermaid
     pie
-        title Cookie Consumption;
-        colors ["#FFC107", "#3F51B5", "#009688"]
-        "Chocolate Chip" : 42
-        "Oatmeal Raisin" : 27
-        "Sugar" : 31
-        width 500
-        background-color #f0f0f0
+    title Cookie Consumption;
+    colors ["#FFC107", "#3F51B5", "#009688"]
+    "Chocolate Chip" : 42
+    "Oatmeal Raisin" : 27
+    "Sugar" : 31
+    width 500
+    background-color #f0f0f0
 ```
 ### Dolore ut velit
-```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
-```
 
 void setup() {
     Serial.begin(9600);
