@@ -29,7 +29,14 @@ tempor  et  fugiat
 
 Eiusmod tempor et fugiat
 
-HÉR Á MERMAID KÖKURITIÐ AÐ KOMA
+pie
+    title Cookie Consumption
+    colors ["#FFC107", "#3F51B5", "#009688"]
+    "Chocolate Chip" : 42
+    "Oatmeal Raisin" : 27
+    "Sugar" : 31
+    width 500
+    background-color #f0f0f0
 
 Dolore ut velit
 
