@@ -31,10 +31,10 @@ Eiusmod tempor et fugiat
 
 ```mermaid
 pie 
-    title Tölur úr töflunni hér að ofan;
-    "miðja": 12;
+    title Tolur ur toflunni;
+    "midja": 12;
     "vinstri": 34;
-    "hægri": 56;
+    "haegri": 56;
 ```
 
 
