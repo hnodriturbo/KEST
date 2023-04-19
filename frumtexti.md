@@ -43,11 +43,11 @@ Eiusmod tempor et fugiat
 ### Dolore ut velit
 ```mermaid
   pie
-    title Tölur úr töflunni hér að;
+    title Cookie Consumption;
     colors ["#FFC107", "#3F51B5", "#009688"];
-    "Miðja" : 12;
-    "Vinstri" : 34;
-    "Hægri" : 56;
+    "Chocolate Chip" : 42;
+    "Oatmeal Raisin" : 27;
+    "Sugar" : 31;
     width 500;
     background-color #f0f0f0;
 ```
