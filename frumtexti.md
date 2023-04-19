@@ -30,11 +30,11 @@ tempor  et  fugiat
 Eiusmod tempor et fugiat
 
 ```mermaid
-   pie 
-       title Tölur úr töflunni hér að ofan;
-       "miðja": 12;
-       "vinstri": 34;
-       "hægri": 56;
+pie 
+    title Tölur úr töflunni hér að ofan;
+    "miðja": 12;
+    "vinstri": 34;
+    "hægri": 56;
 ```
 
 
@@ -45,6 +45,7 @@ void setup() {
     Serial.println("Halló");
 }
 \\\
+
 Commodo occaecat
 
 Incididunt
