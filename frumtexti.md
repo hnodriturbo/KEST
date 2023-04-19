@@ -1,5 +1,3 @@
-<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
-
 # Irure veniam deserunt excepteur
 
 Eu excepteur id pariatur velit
@@ -33,10 +31,10 @@ Eiusmod tempor et fugiat
 
 ```mermaid
    pie 
-      title Tölur úr töflunni hér að ofan;
-      "miðja": 12;
-      "vinstri": 34;
-      "hægri": 56;
+       title Tölur úr töflunni hér að ofan;
+       "miðja": 12;
+       "vinstri": 34;
+       "hægri": 56;
 ```
 
 
