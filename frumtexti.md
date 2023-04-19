@@ -23,11 +23,13 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 
 ## Ad esse sit nostrud est sit sunt
 
-| Miðja | Vinstri | Hægri |
-12  34  56
-tempor  et  fugiat
+| Miðja     | Vinstri    | Hægri    |
+|-----------|------------|----------|
+| 12        | 34         | 56       |
+|tempor     | et         | fugiat   |
 
-Eiusmod tempor et fugiat
+
+## Eiusmod tempor et fugiat
 
 ```mermaid
 pie 
@@ -39,12 +41,12 @@ pie
 
 
 ### Dolore ut velit
-\\\
+```
 void setup() {
     Serial.begin(9600);
     Serial.println("Halló");
 }
-\\\
+```
 
 Commodo occaecat
 
