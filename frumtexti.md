@@ -1,3 +1,5 @@
+<script src="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.min.js"></script>
+
 # Irure veniam deserunt excepteur
 
 Eu excepteur id pariatur velit
