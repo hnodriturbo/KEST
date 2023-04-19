@@ -29,7 +29,7 @@ Incididunt commodo aliqua et Lorem veniam velit velit ullamco eiusmod do pariatu
 |tempor     | et         | fugiat   |
 
 
-## Eiusmod tempor et fugiat
+### Eiusmod tempor et fugiat
 
 ```mermaid
 pie 
@@ -48,23 +48,23 @@ void setup() {
 }
 ```
 
-Commodo occaecat
+## Commodo occaecat
 
-Incididunt
-laborum
-mollit
-cupidatat
-laboris
-anim
+1. Incididunt
+2. laborum
+    i. mollit
+    ii. cupidatat
+3. laboris
+4. anim
 
 Velit sit sunt incididunt ipsum eiusmod id ipsum deserunt sint non enim.
 
-deserunt
-sit
-aliqua
-eiusmod
-irure
-aliquip
+* deserunt
+    - sit
+    - aliqua
+        * eiusmod
+    - irure
+* aliquip
 
 ## Occaecat amet labore
 
