@@ -42,11 +42,11 @@ Eiusmod tempor et fugiat
 ```
 ### Dolore ut velit
 ```mermaid
-  graph TD;
-      A-->B;
-      A-->C;
-      B-->D;
-      C-->D;
+  pie
+    title Cookie Consumption
+    "Chocolate Chip" : 42
+    "Oatmeal Raisin" : 27
+    "Sugar" : 31
 ```
 
 void setup() {
