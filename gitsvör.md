@@ -24,10 +24,13 @@
     - Það er hægt að hugsa um **git branch** sem stjórnstöð sen heldur utan um allar greinar
     - Það er hægt að hugsa um **git checkout** sem leiðsögumann sem leiðir þig á milli.
 
+***
 
 ### 4. Hvað er útgáfustýring (Version Control)?
 * Git leyfir notendum að halda utan um öllum breytingar sem eru gerðar á geymslunni, 
   búa til greinar til að vinna með og sameina breytingar á milli þeirra.
+
+***
 
 ### 5. Hverjir eru helstu kostir við að nota GIT?
 * Það er opinn hugbúnaður.
@@ -37,8 +40,12 @@
 * Fjölbreytileiki
 * Geta til að afturkalla breytingar.
 
+***
+
 ### 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
 * Ég persónulega geri commit alltaf með hverri breytingu sem ég geri á skjali.
+
+***
 
 ### 7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
 * **Working directory** er staðurinn sem inniheldur allar skrárnar sem tilheyra git geymslunni.
