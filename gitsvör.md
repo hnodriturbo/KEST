@@ -7,7 +7,14 @@
 ***
 
 2. Hvað gera eftirfarandi Git skipanir?
-git clone -  
-git status - 
-git diff - 
+* git clone  - Þessi skipun er notuð til að afrita geymslu - repository
+* git status - Færð lista yfir breytingar, líka þær sem hafa verið búnar til en
+             ekki bættar við í geymsluna
+* git diff   - Leyfir þér að bera saman breytingar á milli tveggja skráa eða mappa.
+               Leyfir þér að sjá þær breytingar sem þú hefur gert á skjali sem hefur
+               ekki enn verið pushað yfir. Svo gerir þessi skipun örugglega margt fleira     
+
+***
+
+
 
