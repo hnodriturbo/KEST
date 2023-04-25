@@ -26,12 +26,16 @@
 
 
 ### 4. Hvað er útgáfustýring (Version Control)?
-
+* Git leyfir notendum að halda utan um öllum breytingar sem eru gerðar á geymslunni, 
+  búa til greinar til að vinna með og sameina breytingar á milli þeirra.
 
 ### 5. Hverjir eru helstu kostir við að nota GIT?
-
+* Það er opinn hugbúnaður.
+* Hægt að vinna með greinar.
+* Getur haldið utan um allar breytingar.
+* Hægt að sameina breytingar á milli greina.
 
 ### 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
-
+* Ég persónulega geri commit alltaf með hverri breytingu sem ég geri á skjali.
 
 ### 7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
