@@ -34,8 +34,14 @@
 * Hægt að vinna með greinar.
 * Getur haldið utan um allar breytingar.
 * Hægt að sameina breytingar á milli greina.
+* Fjölbreytileiki
+* Geta til að afturkalla breytingar.
 
 ### 6. Hversu oft telur þú að eigi að gera færslur (commit) í verkefni?
 * Ég persónulega geri commit alltaf með hverri breytingu sem ég geri á skjali.
 
 ### 7. Hvað er átt við með “Working Directory”?” og “Staging Area” í GIT?
+* **Working directory** er staðurinn sem inniheldur allar skrárnar sem tilheyra git geymslunni.
+    - Þegar ég geri breytingar þar eru þær ekki skráðar fyrr en ég hef bætt þeim inn í staging area.
+* **Staging Area** er millistig **Working Directory** og git geymslunnar. Þegar ég nota **git add**
+    þá eru breytingarnar búnar til og tilbúnar til að verða skráðar með git commit.
