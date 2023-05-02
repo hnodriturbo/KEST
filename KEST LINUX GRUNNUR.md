@@ -49,6 +49,8 @@ Install skipan
 **cp - copy -v til að segja linux að segja þér hvað það er að gera ***
 **cp -R til að copy allar skrár innan directory með**
 
+**umask 022 (sjálfgefna stillingin)**
+
 
 
 **Skráar skipanir**
