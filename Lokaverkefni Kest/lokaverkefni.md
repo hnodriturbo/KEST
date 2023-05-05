@@ -6,4 +6,4 @@ Lokaverkefni í KEST áfanga
    - A. Ég bjó til notendur með useradd skipun. Gerði 8 notendur.
    - B. Bjó til grúppur með groupadd skipun.
    - C. Setti notendur sem ég gerði í grúppur með usermod -aG skipun.
-    <img src="Screenshots/1notenduroggrubbur" style=align:center;>
+    <img src="Screenshots/1notenduroggrubbur.jpg" style=align:center;>
