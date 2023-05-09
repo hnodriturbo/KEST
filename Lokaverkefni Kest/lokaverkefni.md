@@ -22,3 +22,8 @@ Lokaverkefni í KEST áfanga
    - C. 
    <img src="Screenshots/skel.jpg" style=align:center;>
 
+
+# prufa
+
+   "einhver kóði h´ðerna!"
+   "annar kóiði hér"
