@@ -24,6 +24,7 @@ Lokaverkefni í KEST áfanga
 
 
 # prufa
-
+```
    "einhver kóði h´ðerna!"
    "annar kóiði hér"
+```
