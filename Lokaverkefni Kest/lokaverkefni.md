@@ -12,19 +12,20 @@ Lokaverkefni í KEST áfanga
    - A. Ég skilgreindi hópana forritun og markadsmal sem group hlutinn af réttindum.
    - B. Ég setti réttindi á möppurnar Gogn/Forritun og Gogn/Markadsmal.
    - C. Passaði upp á að aðrir en þeir sem eru í hópnum hafi ekki aðgang.
-   - D. Gerði möppurnar Vinna og Leikir inná hverjum notanda
-   - E. Gerði linka á þrjár aðal möppurnar inná hverjum notanda
+   - D. Gerði möppurnar Vinna og Leikir inná hverjum notanda.
+   - E. Gerði linka á þrjár aðal möppurnar inná hverjum notanda.
+   - F. Tryggði að notendur geti eingöngu eytt sínum skrám úr möppunum.
    <img src="Screenshots/lsgogn.jpg" style=align:center;>
 ---
 # 3. Klára verkefnið
    - A. Læsti aðgöngum Erlends og Erlu.
    - B. Gerði Áslaugu að sudo.
-   - C. 
+   - C. Setti upp git og ssh lykil.
+   - D. Skrifaði leiðbeiningarnar fyrir Áslaugu.
    <img src="Screenshots/skel.jpg" style=align:center;>
 
 
 # prufa
 ```
-   "einhver kóði h´ðerna!"
-   "annar kóiði hér"
+   "Hérna verða leiðbeiningarnar fyrir áslaugu"
 ```
