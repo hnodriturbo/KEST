@@ -152,3 +152,95 @@ Section 10.1.3
 wc
 Command that displays statistics of files such as the number of lines, words, and bytes.
 Section 10.5
+
+Chapter 15 - System and User Security
+/etc/group
+File that contains group configuration information.
+Section 15.5
+/etc/passwd
+File that defines some of the account information for user accounts.
+ **sudo passwd -u username ** unlockar account
+ **sudo passwd -l username ** lock account
+ -S til að athuga hvort account er lokaður
+
+
+Section 15.3
+/etc/shadow -- geymir lykilorðin encryptuð
+File that contains account information related to the user's password.
+Section 15.3.1
+id
+Command used to print user and group information for a specified user.
+Section 15.6
+last
+Command that shows listing of last logged in users.
+Section 15.8
+su
+Command that allows users to run a shell as a different user.
+Section 15.2.1
+sudo
+Command that allows users to execute commands as another user.
+Section 15.2.2
+w
+Command provides a detailed list about the users currently on the system and a summary of the system status.
+Section 15.7
+who
+Command displays a list of users who are currently logged into the system, where they are logged in from, and when they logged in.
+Section 15.7
+
+
+Chapter 16 - Creating Users and Groups
+/etc/group
+File that contains group configuration information.
+| Section 16.2
+/etc/passwd
+File that defines some of the account information for user accounts.
+| Section 16.3
+/etc/shadow
+File that contains account information related to the user's password.
+| Section 16.3
+/etc/skel
+Directory that typically serves as the skeleton directory, it's contents are copied into new user's home directories when they are created.
+Section 16.3.1
+groupadd
+Command used to create new groups.
+Section 16.2.1
+passwd
+Command used to set or update user passwords.
+Section 16.3.5.1
+useradd
+Command used to create new users.
+Section 16.3
+
+
+
+Chapter 17 - Ownership and Permissions
+chmod
+Command used to change the permissions of files and directories.
+Section 17.8
+chown
+Command used to change the user ownership of files and directories.
+Section 17.5
+ls -a
+Command that displays all files, including hidden files.
+Section 17.2
+ls -l
+Command that displays a long listing of a file or directory.
+Section 17.2
+
+
+Chapter 18 - Special Directories and Files
+/tmp/
+Directory where all users are allowed to create temporary files.
+Section 18.4
+/var/tmp/
+Directory where all users are allowed to create temporary files.
+Section 18.4
+ln -s
+Command used to create a symbolic link.
+Section 18.5.2
+ls -d
+The -d option of the ls command is used to refer to the current directory, and not the contents within it.
+Section 18.3.2
+sticky bit
+Permission is used to prevent other users from deleting files that they do not own in a shared directory.
+Section 18.4
