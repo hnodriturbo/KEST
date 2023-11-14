@@ -166,18 +166,229 @@ To set permissions and control access to the document for different users and gr
 ############################################
 
 
+# Lab – Explore the Windows Desktop
+
+
+
+## ----- Applications tab ----- ##
+
+<!-- 
+force the web browser to close, highlight the browser, and click End task. 
+ -->
+
+#### Question: 
+What happened? 
+The application closed without any complications.
+
+<!-- 
+Open the web browser again. Right-click the web browser in the Task Manager. 
+ -->
+
+#### Question: 
+What options are available? 
+End task, resource values, Provide feedback(not clickable), create dump file,
+go to details, open file location, search online and properties.
+
+
+
+## ----- Services tab ----- ##
+
+<!-- 
+Open the services tab: 
+ -->
+
+#### Question: 
+What statuses are listed? 
+Stopped and running
+
+<!-- 
+Right-click on one of the services listed.
+ -->
+
+#### Question: 
+What are the available actions that can be taken? 
+Start, stop, restart - open services, search online and go to details (not clickable of this item I chose to right click)
+
+
+
+
+## ----- Performance tab ----- ##
+
+<!-- 
+Click the Performance tab. Select CPU to view the utilization in the left panel. Note: There is no CPU 
+option in the Performance tab in Windows 7. 
+ -->
+
+#### Questions: 
+What is the current utilization of the CPU? 
+2%
+
+#### Question: 
+How many streams of instructions (i.e. Threads) are currently running? 
+969
+
+#### Question: 
+How many Apps, Background processes, and Windows processes (i.e Processes) are currently running? 
+117
+
+<!-- 
+b. Click on the Memory Chart in the left panel of the Performances tab. Note: There is no CPU option in 
+the Performance tab in Windows 7. 
+ -->
+
+#### Question: 
+What is the total physical memory (MB)? 
+16gb DDR 3
+
+#### Question: 
+What is the available physical memory (MB)? 
+13.6gb
+
+#### Question: 
+How much physical memory (MB) is being used by the computer? 
+2200mb (2.2gb)
+
+<!-- 
+Click the Ethernet Chart in the left panel of the Performances tab. Note: There is no Ethernet option in 
+the Performance tab in Windows 7. Click the Networking tab in Windows 7 for the Ethernet information. 
+ -->
+
+#### Question: 
+What is the link speed? What type of Ethernet Adapter is in use on this computer? 
+Intel(R) 82579LM Gigabit Network Connection (I dont see the link speed)
+
+#### Question: 
+What type of network connection (i.e Connection type) is in use? 
+Ethernet
+
+#### Question: 
+What is the IPv4 address of the PC? Note: This information is not available in the Networking tab in 
+Windows 7. 
+10.11.214.70
+
+
+
+## ----- Processes tab ----- ##
+
+
+
+############################################
+############################################
 
 
 
 
 
 
-# Svo kemur næsta lab hérna sem er : 
 
 
 
 
 
+############################################
+############################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+############################################
+############################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+############################################
+############################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+############################################
+############################################
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+############################################
+############################################
 
 
 
