@@ -1,5 +1,3 @@
-
-
 # 11.4.2.7 Lab - File System Commands
 
 ## Introduction
@@ -23,13 +21,13 @@ e. Change to one of the new folders using the `cd` command.
 
 **Question:**
 - What is the current directory?
-  - `Type your answers here.`
+  - `The current directory is the one displayed after executing the 'cd' command.`
 - Which folder are you in now?
-  - `Type your answers here.`
+  - `In the folder created and navigated to using the 'cd' command.`
 - What command or commands did you use to create the nested folders?
-  - `Type your answers here.`
+  - `Used the 'md' command to create new folders.`
 - After issuing the `cd ..` command what is your directory now?
-  - `Type your answers here.`
+  - `The parent directory of the current folder.`
 
 ### Step 3: Create text files
 a. Navigate to the folder where you will create text files.
@@ -47,9 +45,9 @@ f. Delete files using the `del` command.
 
 **Question:**
 - What single command would you use to delete all the files with "doc2" in the filename?
-  - `Type your answers here.`
+  - `del *doc2*`
 - What command would you use to delete all the files in the directory?
-  - `Type your answers here.`
+  - `del *`
 
 ### Step 5: Use the `xcopy` and `robocopy` commands
 a. Copy the content of one directory to another using `xcopy`.
@@ -58,7 +56,7 @@ c. Use `robocopy` to copy content to a new destination.
 
 **Question:**
 - What option allows you to copy all the files and directories including the empty directories?
-  - `Type your answers here.`
+  - `/E option with xcopy or robocopy.`
 
 ### Step 6: Delete directories
 a. Delete an empty directory using the `rd` command.
@@ -67,10 +65,10 @@ c. Determine the switch that allows the deletion of a non-empty directory.
 
 **Question:**
 - Were you able to delete the directory? Explain.
-  - `Type your answers here.`
+  - `Yes, if empty. If not, use 'rd /s' to delete a non-empty directory.`
 
 ## Reflection Question
 - What are the advantages of using CLI vs. GUI?
-  - `Type your answers here.`
+  - `CLI provides more control, automation, and scripting capabilities, while GUI is more user-friendly and visually intuitive.`
 
 ## End of Document

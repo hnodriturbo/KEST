@@ -18,26 +18,26 @@ b. Open a command prompt and enter `tasklist`.
 
 **Question:**
 - What command would you use to display the results of tasklist one page at a time?
-  - `Type your answers here.`
+  - `tasklist | more`
 
 c. Review the syntax and options for the tasklist command using `tasklist /?`.
 
 **Questions:**
 - What is the option to list the modules that are associated with a task?
-  - `Type your answers here.`
+  - `/M`
 - What command would you use if you want to find all the tasks that use the module `oleaut32.dll`? List a few tasks that use `oleaut32.dll`.
-  - `Type your answers here.`
+  - `tasklist /M oleaut32.dll`
 - What command would you use to find out all the tasks that are associated with your username?
-  - `Type your answers here.`
+  - `tasklist /FI "USERNAME eq your_username"`
 - What command would you use to find out all the processes that have been running for more than 1 hour and 40 minutes?
-  - `Type your answers here.`
+  - `tasklist /FI "CPUTIME gt 01:40:00"`
 
 #### Step 2: The taskkill command
 a. Use `taskkill /?` to review command syntax and options.
 
 **Question:**
 - What command would you use to terminate all processes owned by a particular user?
-  - `Type your answers here.`
+  - `taskkill /FI "USERNAME eq your_username" /F`
 
 b. Use the PID recorded from the tasklist command to kill the notepad process.
 c. Verify that Notepad is closed and the process has been terminated with `tasklist`.
@@ -56,7 +56,7 @@ b. Review the syntax and options of the `sfc` command with `sfc /?`.
 
 **Question:**
 - What option would you use to only scan the integrity of all the protected system files?
-  - `Type your answers here.`
+  - `/VERIFYONLY`
 
 c. Use `sfc /scannow` to scan and repair all protected system files.
 
@@ -69,7 +69,7 @@ c. Add `/all` to see all drivers and `/format:table` to format the output into a
 
 **Question:**
 - What would you add to the command to view the output one page at a time?
-  - `Type your answers here.`
+  - `| more`
 
 d. Save the driver results to a text file with `dism /online /get-drivers /all /format:table > Drivers_Results.txt`.
 e. Verify the creation of the text file with `more` or `type`.
@@ -81,10 +81,10 @@ a. Review the syntax and options for the `shutdown` command.
 
 **Questions:**
 - Enter the command to log off your computer.
-  - `Type your answers here.`
+  - `shutdown /l`
 - Shut down the computer in 120 seconds and note any warning message.
-  - `Type your answers here.`
+  - `shutdown /s /t 120`
 - What command would you use to abort the shutdown?
-  - `Type your answers here.`
+  - `shutdown /a`
 
 ## End of Document
