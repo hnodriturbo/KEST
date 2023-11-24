@@ -20,11 +20,11 @@ In this lab you will open Device Manager to display devices listed on your compu
 
 - What information is listed in the Device Manager window? Why would you use it?
 
-  `Type your answers here.`
+  `Easily acccess information about different types of hardware drivers and from there you can install and uninstall drivers easily and get easy access to properties to change and make changes to the hardware of the computer.`
 
 - How would you install driver software for an older device that may not be automatically recognized by the Windows operating system?
 
-  `Type your answers here.`
+  `If a device isn't recognized and no driver installed you need to install specific driver software for that device and easily can be done in device manager using upgrade or install driver properties.`
 
 ### Step 2: Display the monitor settings on your computer.
 
@@ -42,7 +42,7 @@ Note: Check with your instructor before making any device changes on the compute
 
 - What additional information does Driver Details provide?
 
-  `Type your answers here.`
+  `Path to the driver files and file version, copyright, signer and provider of the driver.`
 
 #### d. Click Update Driver.
 
@@ -50,7 +50,7 @@ Note: Check with your instructor before making any device changes on the compute
 
 - What two options do you have for updating the driver?
 
-  `Type your answers here.`
+  `Search automaticly for drivers or browse my computer for drivers.`
 
 #### e. From the Update Driver Software window click Cancel to return to the Monitor Properties window.
 
@@ -58,11 +58,11 @@ Note: Check with your instructor before making any device changes on the compute
 
 - What does the Roll Back Driver button do? The Roll Back Driver can be grayed out on your computer. Why would it be grayed out?
 
-  `Type your answers here.`
+  `It's grayed out, because there is no older driver to roll back to.`
 
 - What are the other available options?
 
-  `Type your answers here.`
+  `Driver details, update driver, -grayed roll back driver-, disable device and uninstall device.`
 
 #### f. Close all open windows.
 

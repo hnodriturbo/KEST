@@ -22,87 +22,87 @@ By default, the Control Panel is divided into categories, each controlling a gro
 
 **Question:**
 - What are the viewing options?
-  `Write your answer here.`
+  `I don't see the option drop-down box`
 
 #### c. Explore Categories
 - Select the Categories view.
 
 **Question:**
 - Name a few of the Control Panel categories.
-  `Write your answer here.`
+  `System and Security, Network and Internet, Hardware and Sound, Programs, User Accounts, Appearence and personalizition, Clock and region and ease of access.`
 
 ### Step 2: System and Security
 Explore the System and Security category in the Control Panel and use the subcategories to answer the following questions.
 
 **Questions:**
 - Which subcategory would help you troubleshoot common problems?
-  `Write your answer here.`
+  `Review your computer's status allows you to enter security and maintenance part of the system and security part.`
 - Which subcategory allows a program through the Windows Firewall?
-  `Write your answer here.`
+  `Select system security and there open windows defender firewall.`
 
 ### Step 3: Network and Internet
 The Network and Internet category allows you to view the network status and configure related settings and preferences.
 
 **Question:**
 - Which subcategory allows you to view the basic network information and set up connections?
-  `Write your answer here.`
+  `View network status and tasks.`
 
 ### Step 4: Hardware and Sound
 This category allows you to add and configure hardware devices, customize power options, and adjust sound settings.
 
 **Questions:**
 - Which subcategory allows you to choose what happens when you insert a media or device?
-  `Write your answer here.`
+  `Autoplay.`
 - Which subcategory allows you to add a printer?
-  `Write your answer here.`
+  `Add device or advanced printer setup.`
 
 ### Step 5: Programs
 The Programs category provides program installation and uninstallation, and the selection of specific programs for default use in Windows.
 
 **Questions:**
 - Which subcategory would you use to have a specific file type always open in a specified program?
-  `Write your answer here.`
+  `Default programs.`
 - Which subcategory would you use to uninstall a program?
-  `Write your answer here.`
+  `Uninstall a program.`
 - Which subcategory would you use to install the Windows telnet client?
-  `Write your answer here.`
+  `Turn windows features on or off.`
 
 ### Step 6: User Accounts
 Adjust user settings such as account types and change passwords within the User Accounts category.
 
 **Questions:**
 - Which subcategory would you use to change the account type from administrator to standard?
-  `Write your answer here.`
+  `Change account type.`
 - Which subcategory would you use to view, edit, or remove web and Windows credentials?
-  `Write your answer here.`
+  `Credential manager.`
 
 ### Step 7: Appearance and Personalization
 Configure the look and feel of Windows, including the taskbar, navigation, and File Explorer options.
 
 **Questions:**
 - Which subcategory would you use to customize the Taskbar?
-  `Write your answer here.`
+  `Taskbar and navigation.`
 - Which subcategory would you use to show hidden files and folders?
-  `Write your answer here.`
+  `File explorer options - show hidden files and folders.`
 - Which subcategory would you use to show extensions for known file types?
-  `Write your answer here.`
+  `File explorer options.`
 
 ### Step 8: Clock and Region
 Change the date, time, and region settings in Windows.
 
 **Questions:**
 - Which subcategory would you use to change the time zone?
-  `Write your answer here.`
+  `Date and time - change the time zone.`
 - Which subcategory would you use to change the date format?
-  `Write your answer here.`
+  `Region - Change date, time or number formats.`
 - Which subcategory would you use to synchronize the time on a computer with a specific web server on the Internet?
-  `Write your answer here.`
+  `Add clocks for different time zones.`
 
 ### Step 9: Ease of Access
 Customize the Windows operating system for all types of users and configure voice control.
 
 **Questions:**
 - Which subcategory would you use to configure the computer to read aloud any text on the screen?
-  `Write your answer here.`
+  `Ease of access center.`
 - Which subcategory would you use to improve the computer’s ability to understand your voice and improve dictation accuracy?
-  `Write your answer here.`
+  `Speech recognition.`

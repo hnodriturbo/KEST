@@ -45,10 +45,11 @@ c. The Create New Account window opens. Type the name provided by your instructo
 
 **Questions:**
 - What can a user do with a limited account?
+  `A limited user account in Windows can perform basic tasks like running applications, changing personal settings, and accessing files for which they have permission. They can also browse the internet, use installed software, and access personal data.`
 - What limitations does this type of an account have?
+  `Limited accounts cannot modify system settings, install or uninstall software, change security settings, or access files outside their permission scope. They cannot make changes affecting other users or the overall system configuration.`
 - What information is listed for the new account?
-
-Type your answers here.
+  `For a new account, typically the username, account type (limited or administrator), and status (active or inactive) are listed. Security questions and answers may be set for account recovery purposes, but these are not visible in the account overview.`
 
 d. Click Create Account to continue.
 e. Click the user account you just created.
@@ -64,7 +65,7 @@ d. Select Administrator as the account type and click Change Account Type.
 **Question:**
 - What is the advantage of having most users work within a Standard user account?
 
-Type your answers here.
+  `Enhanced Security: Standard accounts help prevent unauthorized changes to the system settings or installation of potentially harmful software. This reduces the risk of malware infections and accidental system misconfigurations. Ofcourse also because of the privacy between users.`
 
 ### Part 3: Delete the Account
 a. Navigate to the Control Panel. Change back to the Category view click User Accounts in Windows 10 or User Accounts and Family Safety in Windows 8.1 and 7.
@@ -74,16 +75,17 @@ c. Select the account to be deleted. Click Delete the account.
 **Question:**
 - For this lab select Delete Files. What are the other options? When would you choose the other options?
 
-Type your answers here.
+  `The other options is to keep the files and would be selected if the user had any personal files, pictures or data that don't want to be deleted.`
 
 d. Click Delete Account to confirm the account deletion.
 e. Notice the account is no longer listed. Close all open windows.
 
 ## Reflection Questions
 1. Why is it important to protect all accounts with strong passwords?
+  `Protecting all accounts with strong passwords is crucial to prevent unauthorized access. Strong passwords help secure sensitive data and personal information from cyber threats, like hacking and identity theft. They are a fundamental layer of defense against breaches that could compromise the entire system.`
 2. Why would you create a user with Standard privileges?
+  `Creating a user with Standard privileges is important for security and system stability. Standard users can perform everyday tasks without risking system integrity or security. This limitation prevents accidental or malicious changes to system settings and reduces the risk of malware infections.`
 3. In what type of situation would an IT administrator delete a user account and choose to keep the files of that user account instead of deleting them?
-
-Type your answers here.
+  `An IT administrator might delete a user account but keep the files in situations where the user has left the organization, but their files are still valuable or needed for ongoing projects. This approach ensures continuity of work and data preservation while removing access for the departed user.`
 
 ## End of Document

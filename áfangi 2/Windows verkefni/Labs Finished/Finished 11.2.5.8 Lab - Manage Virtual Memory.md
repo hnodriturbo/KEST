@@ -16,7 +16,7 @@ d. In the Performance Options window, click the Advanced tab.
 
 **Question:**
 - What is the current size of the virtual memory (paging file)?
-  `Type your answers here.`
+  `1152mb`
 
 ### Step 2: Make Virtual Memory Changes
 a. Click Change in the Virtual Memory area to open the Virtual Memory window.
@@ -24,14 +24,14 @@ b. Remove the check mark from Automatically manage paging file size for all driv
 
 **Question:**
 - What Drive [Volume Label] contains the paging file?
-  `Type your answers here.`
+  `C:`
 
 c. Choose the I: drive. Select the Custom size radio button.
   (Note: Your drive letter and volume may be different than the example.)
 
 **Question:**
 - What is the recommended paging file size for all drives?
-  `Type your answers here.`
+  `1151mb`
 
 d. Enter a number smaller than the recommended file size in the Initial size (MB) field. Enter a number larger than the Initial size but smaller than the recommended file size in the Maximum size (MB) field. Click Set.
 e. Select the C: drive. Select the No paging file radio button and click Set.
@@ -47,7 +47,7 @@ d. The Virtual Memory window opens displaying the new paging file information. V
 
 **Question:**
 - What Drive [Volume Label] contains the paging file now?
-  `Type your answers here.`
+  `I:`
 
 ### Step 4: Reset Virtual Memory
 a. Select drive C: [Local Disk] > click System managed size > click Set.
@@ -59,6 +59,6 @@ f. Click Restart Now when prompted by the warning message.
 
 ## Reflection Questions
 - Why would you ever change the default virtual memory page file settings in Windows?
-  `Type your answers here.`
+  `Changing Windows virtual memory page file settings can optimize performance, meet specific application requirements, enhance system stability, and tailor memory management for specialized workloads.`
 
 ## End of Document

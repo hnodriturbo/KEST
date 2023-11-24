@@ -26,7 +26,7 @@ d. Reopen the console, review the Management Tools folder, and navigate to Event
 **Question:**
 - What was the path you used to navigate to the Event Viewer?
   
-  `Type your answers here.`
+  `Computer Management - System Tools - Event Viewer`
 
 e. Close the Console window without saving changes.
 
@@ -39,7 +39,7 @@ b. Set a solid blue background color.
 **Question:**
 - What is the background picture?
 
-  `Type your answers here.`
+  `There is none since I set it to solid blue color.`
 
 #### Step 2: Open the registry editor.
 a. Open the Registry Editor with `regedit`.
@@ -48,7 +48,7 @@ b. Navigate to HKEY_CURRENT_USER\Control Panel\Colors and note the Background da
 **Question:**
 - What is the data value of the Background?
 
-  `Type your answers here.`
+  `0 99 177`
 
 #### Step 3: Export a registry key.
 a. Export the Colors folder as BlueBKG and save it to the Desktop.
@@ -57,7 +57,7 @@ b. Edit the BlueBKG.reg with Notepad and note the Background data value.
 **Question:**
 - What is the data value of the Background?
 
-  `Type your answers here.`
+  `0 99 177`
 
 c. Change the desktop background to red and save changes.
 
@@ -68,7 +68,7 @@ a. Import the BlueBKG.reg file to revert the background to blue and confirm the 
 - What is the data value of the Background after importing the BlueBKG.reg?
 - What is the color of the desktop after restarting?
 
-  `Type your answers here.`
+  `0 99 177`
 
 f. Reset the Background to the original settings and delete the custom console and BlueBKG file.
 
@@ -76,6 +76,6 @@ f. Reset the Background to the original settings and delete the custom console a
 1. Why would it be beneficial to add snap-ins to the mmc that are for other computers on the network?
 2. After restarting the computer, why was the desktop color changed?
 
-`Type your answers here.`
+`1. Adding snap-ins for other computers to the MMC enables centralized, efficient, and remote management of multiple networked systems from a single console 2. Because I imported the regedit file I exported before.`
 
 ## End of Document
