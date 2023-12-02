@@ -18,20 +18,18 @@ In this lab, you will create users and groups and delete users using the Local U
 **Question:**
 - What are the names of the accounts listed?
   
-  `Type your answers here.`
+  `Administrator, Blabla, DefaultAccount, Guest, Hnodri, WDAGUtilityAccount`
 
 - Select the Groups folder. Name five groups from the list.
   
-  `Type your answers here.`
+  `Guests, Power Users, Replicator, Users, Administrators`
 
 - Right-click your account, select Properties, and click the Member Of tab.
 
 **Question:**
 - Which group does your account belong to?
   
-  `Type your answers here.`
-
-- Click OK to close the Properties window.
+  `Administrators`
 
 #### Step 2: Create new users.
 - Create users Student01, Student02, Staff01, and Staff02 using the Local Users and Groups Manager. Use cisco12345 as the password and unselect "User must change password at next logon" for each user.
@@ -39,25 +37,25 @@ In this lab, you will create users and groups and delete users using the Local U
 **Question:**
 - What is Student01 required to do when logging in the first time?
   
-  `Type your answers here.`
+  `Student01 is not required to change their password at first login since the option "User must change password at next logon" is unselected.`
 
 - Double-click Student01. Unselect the "User must change password at next logon."
 
 **Question:**
 - What group does Student01 belong to?
   
-  `Type your answers here.`
+  `By default, Student01 would belong to the Users group.`
 
 - Click the Groups folder. Double-click the Users group.
 
 **Question:**
 - From the description, can the members of the Users group make system-wide changes? What can the Users group do on the computer?
   
-  `Type your answers here.`
+  `No, the members of the Users group cannot make system-wide changes. They can perform tasks like running applications and using local and network printers.`
 
 - Who are the group members?
   
-  `Type your answers here.`
+  `Typically, this includes all user accounts created on the computer, except for those specifically assigned to other groups with different permissions.`
 
 #### Step 3: Verify user and group permissions.
 - Log off and log on as any member of the Users group.
@@ -66,11 +64,11 @@ In this lab, you will create users and groups and delete users using the Local U
 **Question:**
 - Were you successful in creating the new account? Explain.
   
-  `Type your answers here.`
+  `No, as a member of the Users group, I don't have the necessary permissions to create new user accounts.`
 
 - Were you able to navigate to www.cisco.com? Explain.
   
-  `Type your answers here.`
+  `Yes, as navigating to websites does not require administrative privileges.`
 
 ### Part 2: Create New Groups
 
@@ -80,11 +78,11 @@ In this lab, you will create users and groups and delete users using the Local U
 **Question:**
 - With the group ITEStaff highlighted, what can the members do in this folder?
   
-  `Type your answers here.`
+  `The members of the ITEStaff group, depending on the permissions set, typically can read, write, modify, and delete files within the folder. If full control is granted, they can also change permissions and take ownership of files.`
 
 - Which additional checkbox would you select for the group ITEStudent to have full control of the folder?
   
-  `Type your answers here.`
+  `To grant full control, select the 'Full Control' checkbox in the folder's permissions settings.`
 
 ### Part 3: Modify User and Group Permissions
 
@@ -94,11 +92,11 @@ In this lab, you will create users and groups and delete users using the Local U
 **Question:**
 - Are you able to access the content in the Student01 and Student02 folders? Explain.
   
-  `Type your answers here.`
+  `This depends on the permissions set for these folders. If the logged-in user is a member of a group that has been granted access to these folders, then they will be able to access the content. Otherwise, they will not have access.`
 
 - Were you able to access the content in the folders Staff, Student\Student01, and Student\Student02? Explain.
   
-  `Type your answers here.`
+  `Access to these folders depends on the user's group memberships and the permissions set on each folder. If the user is part of a group with appropriate access rights to these folders, they will be able to access the content.`
 
 #### Step 2: Disable a user account.
 - Disable the user account Staff02.
@@ -106,7 +104,7 @@ In this lab, you will create users and groups and delete users using the Local U
 **Question:**
 - Can you log on as Staff02? Explain.
   
-  `Type your answers here.`
+  `No, once the Staff02 account is disabled, it cannot be used to log in until it is re-enabled.`
 
 #### Step 3: Clean up.
 - Delete the users, groups, files, and folders created in this lab.
@@ -114,10 +112,4 @@ In this lab, you will create users and groups and delete users using the Local U
 ### Reflection Questions
 1. How would you give administrative privileges on the local computer to all the members of ITEStaff?
    
-   `Type your answers here.`
-
-2. How would you deny access to a file for everyone except the owner?
-   
-   `Type your answers here.`
-
-## End of Document
+   `To give administrative privileges to all members of ITEStaff,

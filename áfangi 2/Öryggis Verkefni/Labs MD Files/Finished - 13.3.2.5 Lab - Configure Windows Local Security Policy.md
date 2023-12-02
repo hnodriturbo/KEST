@@ -37,17 +37,19 @@ b. Focus on the Account Policies and Local Policies.
 a. Expand Account Policies, then click Password Policy.
 b. Set Enforce password history to 8.
 c. Configure remaining Password Policy settings based on Step 1 requirements.
-   - Maximum password age: [Your Answer]
-   - Minimum password age: [Your Answer]
-   - Minimum password length: [Your Answer]
-   - Password must meet complexity requirements: [Your Answer]
-   - Store passwords using reversible encryption: Disabled
+   - Enforce password history: [`8`]
+   - Maximum password age: [`8`]
+   - Minimum password age: [`90 days`]
+   - Minimum password length: [`1 day`]
+   - Password must meet complexity requirements: [`Emabled`]
+   - Store passwords using reversible encryption: [`Disabled`]
+
 
 ### Step 4: Configure the Account Lockout Policy security settings
 a. How many times is a user allowed to attempt to login before the account is locked?
-   `Type your answers here.`
+   `5 imes`
 b. How long should the user wait before attempting to log back in?
-   `Type your answers here.`
+   `5 Minutes.`
 c. Configure Account Lockout Policy settings.
 
 ### Step 5: Configure the Audit Policy security settings
@@ -57,7 +59,7 @@ b. Enable Success and Failure for each policy.
 ### Step 6: Configure additional Local Policies security settings
 a. View User Rights Assignment and Security Options.
 b. Are there any you would recommend changing? Why?
-   `Type your answers here.`
+   `For example, you might want to restrict remote desktop access to only certain users or groups for security reasons. Or, adjust the 'Access this computer from the network' setting to limit network access to specific user groups, enhancing overall system security.`
 c. List policy and security setting values to change for remaining requirements:
    - Interactive logon: Machine inactivity limit: 1800 seconds
    - [Other policies and settings]

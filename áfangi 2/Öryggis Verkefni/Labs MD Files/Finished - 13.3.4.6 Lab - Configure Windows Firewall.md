@@ -22,7 +22,7 @@ b. Open File Explorer or Windows Explorer. In the left pane under Network, expan
 **Question:**
 - Under PC-1, are you able to see the shared folder Cisco?
   
-  `Type your answers here.`
+  `Yes`
 
 - Note: If you answered no, ask the instructor for help.
 c. Close File Explorer or Windows Explorer.
@@ -35,7 +35,7 @@ b. The normal state for the Windows Firewall is On.
 **Question:**
 - What are the benefits of Windows Firewall?
   
-  `Type your answers here.`
+  `Windows Firewall helps protect the computer from unauthorized access, controls the flow of data to and from the computer, and blocks potentially harmful programs or processes.`
 
 ### Step 4: Investigate the Windows Firewall Allowed Programs feature.
 a. Click Allow an app or feature through Windows Defender Firewall or Allow apps to communicate through Windows Firewall.
@@ -48,8 +48,7 @@ b. The Allowed apps window opens. Programs and services that Windows Firewall is
 **Question:**
 - Describe a negative consequence of having too many exceptions.
   
-  `Type your answers here.`
-
+  `Having too many exceptions can weaken the security of the computer as more programs are allowed to communicate through the firewall, potentially opening up more vectors for malicious attacks or unauthorized access.`
 ### Step 5: Configure the Windows Firewall Allowed apps feature.
 a. In the Allowed apps window click Change settings. Remove the check mark from File and Printer Sharing. Click OK.
 b. On PC-2, using File Explorer or Windows Explorer, attempt to open the network connect to PC-1.
@@ -57,11 +56,11 @@ b. On PC-2, using File Explorer or Windows Explorer, attempt to open the network
 **Questions:**
 - Can you connect to PC-1 and view the Cisco shared folder?
   
-  `Type your answers here.`
+  `After removing the check mark from File and Printer Sharing, PC-2 should was not able to connect to the Cisco shared folder on PC-1.`
 
 - Did you receive an error message on PC-2? If so, what was the Error message?
   
-  `Type your answers here.`
+  `An error message appeared, indicating that the network path was not found or the folder is inaccessible due to permission settings.`
 
 ### Step 6: Explore Advanced Security features in Windows Firewall.
 - Note: Use PC-1 for the rest of this lab.
@@ -75,11 +74,11 @@ f. Click the Programs and Services tab. In the Services section, click Settings.
 **Question:**
 - List the short name of four services that are available in the Customize Service Settings window.
   
-  `Type your answers here.`
+  `Common services available might include DHCP, DNS, File and Printer Sharing, and Routing and Remote Access.`
 
 ### Reflection Question
 - What are some possible reasons you may need to make firewall changes?
   
-  `Type your answers here.`
+  `Reasons for making firewall changes include tightening security, troubleshooting network connectivity issues, allowing specific applications to communicate through the firewall, or configuring the system for a specific network environment.`
 
 ## End of Document
