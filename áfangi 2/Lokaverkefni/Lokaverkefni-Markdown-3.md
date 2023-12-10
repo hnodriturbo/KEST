@@ -1,9 +1,14 @@
 # Enhanced Windows Server 2019 Setup Project Guide
 
+
+
+
 ## Introduction
 This document serves as a comprehensive guide for setting up a Windows Server 2019 environment in VMware, tailored for a small software company with 9 employees. It incorporates detailed instructions from the original project guide provided in Icelandic, translated and structured for clarity and ease of use.
 
+
 ---
+
 
 ## Chapter 1: Windows Installation and Basic Settings (20%)
 
@@ -13,14 +18,21 @@ This document serves as a comprehensive guide for setting up a Windows Server 20
   - Choose **Setup for organization** and **Domain join instead** options during the setup.
   - *What I did in this part was that I installed windows server 2019 on VMware in my laptop after reassembling a computer in class and installing windows 10 on that computer. I used VMware as an emulator so i can finish the rest of these steps in my own laptop computer. At this point I have made and finished other assignments in my class and delivered them to INNA school system. From this point on I will continue to work on my emulated windows on VMware.*
 
+
+---
+
+
 ### 1.2 Computer Name Configuration
 - **Actions Taken**:
   - Change the computer name to `KEST2VW-[YourName]`, avoiding Icelandic characters and spaces.
   - *Changed the computer name to `KEST2VW-[HreidarPetursson]`*
 
 #### Images/Screenshots
-- *Add any relevant images or screenshots here.*
 ![Change name of computer](./images/change-name-of-computer.jpg)
+
+
+---
+
 
 ### 1.3 Software Installation
 - **Actions Taken**:
@@ -34,7 +46,9 @@ This document serves as a comprehensive guide for setting up a Windows Server 20
 ![Visual Studio Code Python Support](./images/vscode-python-support.jpg)
 ![Installation of Git, VSCode](./images/git-python-install.jpg)
 
+
 ---
+
 
 ## Chapter 2: Users (20%)
 
@@ -48,6 +62,9 @@ This document serves as a comprehensive guide for setting up a Windows Server 20
 
 #### Images/Screenshots
 ![User Group Creation](./images/user-groups.jpg)
+
+
+---
 
 
 ### 2.2 PowerShell Script for User Creation
@@ -68,6 +85,7 @@ This document serves as a comprehensive guide for setting up a Windows Server 20
 
 ---
 
+
 ## Chapter 3: Files, Folders, and Permissions (20%)
 
 ### 3.1 Directory Structure and Permissions
@@ -80,10 +98,12 @@ This document serves as a comprehensive guide for setting up a Windows Server 20
   - *I experienced a little bit of problems when trying to log onto each account because i forgot to add each user to the Users group. But after that i could access each group and give them specific and full permissions to each folders `see screenshot`. *
 
 #### Images/Screenshots
+![Directory structure and permissions](./images/gogn-folder.jpg)
 ![Directory structure and permissions](./images/permissions.jpg)
 
 
 ---
+
 
 ## Chapter 4: Security Matters (10%)
 
@@ -98,6 +118,9 @@ This document serves as a comprehensive guide for setting up a Windows Server 20
 ![Password policy](./images/password-policy.jpg)
 
 
+---
+
+
 ### 4.2 Firewall Configuration
 - **Actions Taken**:
   - Configure the firewall to block all incoming network traffic except for ping requests.
@@ -106,11 +129,11 @@ This document serves as a comprehensive guide for setting up a Windows Server 20
   - *I opened wf.msc and from there added 2 new inbound rules. One for allowing ping request and other for blocking all inbound traffic. See the screenshot.*
 
 #### Images/Screenshots
-- *Add any relevant images or screenshots here.*
 ![Firewall configuration](./images/wf.jpg)
 
 
 ---
+
 
 ## Chapter 5: Networking (30%)
 
@@ -135,3 +158,10 @@ This document serves as a comprehensive guide for setting up a Windows Server 20
   - *First of all, I used the AI for helping me create a useful guide in english for this assignment but only to create a visually beautiful assignment for me to fill out. This gave me the opportunity to write like it being a diary of what i was doing and i took screenshots and added them for proof of what i did. I hope this is enough for you. This project helped me learned alot and I am grateful for the opportunity to be a better computer technician and learn more in the IT sector. The AI only created the guide but I did all the work and filled in what i did for each part of the assignment. The AI did not finish or do the assignment for me. I worked my ass off to get this sent in tonight.
   
   I will do the packet traces assignment tomorrow.*
+
+
+  
+
+---
+
+
