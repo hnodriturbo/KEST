@@ -14,12 +14,12 @@
 
 
 ## Overview
-In this chapter, we dive into setting up and configuring a network that includes switches and PCs, focusing on how these devices interact in a controlled environment and enhance our understanding of network management.
+ - In this chapter, we dive into setting up and configuring a network that includes switches and PCs, focusing on how these devices interact in a controlled environment and enhance our understanding of network management.
 
 ***
 
 ### Objective
-This assignment sharpens our skills in configuring and verifying network settings, focusing on communication between devices using various protocols and preparing us for more complex networking tasks.
+ - This assignment sharpens our skills in configuring and verifying network settings, focusing on communication between devices using various protocols and preparing us for more complex networking tasks.
 
 ***
 
