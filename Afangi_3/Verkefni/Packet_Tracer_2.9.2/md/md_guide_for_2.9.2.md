@@ -34,10 +34,10 @@ The design is straightforward yet sophisticated, with routers and switches confi
 ***
 
 ### Configurations Made To Meet The Assignment's Requirements
-We kicked off by setting up the network topology in Packet Tracer:
-- Connected PC-A to Switch S1 and PC-B to Switch S2.
-- Ensured all devices were powered on and properly connected.
-- Configured necessary IP addresses and subnet masks on PCs and switches.
+ - We kicked off by setting up the network topology in Packet Tracer:
+    - Connected PC-A to Switch S1 and PC-B to Switch S2.
+    - Ensured all devices were powered on and properly connected.
+    - Configured necessary IP addresses and subnet masks on PCs and switches.
 
 ***
 
