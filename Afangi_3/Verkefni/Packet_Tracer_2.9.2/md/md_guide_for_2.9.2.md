@@ -13,8 +13,6 @@
 10. [Screenshots](#screenshots)
 
 
-`---`
-
 ## Overview
 In this chapter, we dive into setting up and configuring a network that includes switches and PCs, focusing on how these devices interact in a controlled environment and enhance our understanding of network management.
 
