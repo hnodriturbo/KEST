@@ -1,28 +1,47 @@
 # Set default behavior for all files
 * text=auto
 
-# Normalize text files to ensure consistent line endings across platforms
-*.html text
-*.css text
-*.js text
-*.json text
-*.php text
-*.sql text
-*.scss text diff=scss
-*.js text eol=lf
-*.php text
-*.jsx text
-*.ts text
-*.tsx text
+# 🔄 Normalize text automatically; enforce LF for source files
+*           text=auto
+*.sh        text eol=lf
+*.py        text eol=lf
+*.js        text eol=lf
+*.jsx       text eol=lf
+*.ts        text eol=lf
+*.tsx       text eol=lf
+*.css       text eol=lf
+*.scss      text eol=lf
+*.html      text eol=lf
+*.yml       text eol=lf
+*.yaml      text eol=lf
+*.json      text eol=lf
+*.md        text eol=lf
 
 # Binary files - mark them so that Git doesn't try to handle them as text
-*.png binary
-*.jpg binary
-*.gif binary
-*.ico binary
-*.pdf binary
-*.ai binary
-*.psd binary
+*.png       binary
+*.jpg       binary
+*.jpeg      binary
+*.gif       binary
+*.ico       binary
+*.pdf       binary
+*.ai        binary
+*.psd       binary
+*.zip       binary
+*.rar       binary
+*.7z        binary
+*.gz        binary
+*.bz2       binary
+*.xz        binary
+*.mp4       binary
+*.mov       binary
+*.avi       binary
+*.mp3       binary
+*.wav       binary
+*.woff      binary
+*.woff2     binary
+*.eot       binary
+*.ttf       binary
+*.otf       binary
 
 # Minified files should also be treated as binary to avoid diff issues
 *.min.js binary
@@ -31,6 +50,18 @@
 # Diff settings for specific file formats
 *.yml text diff=yaml
 *.config text diff=xml
+
+# 💿 Virtualization/installer images (keep as binary)
+*.ova       binary
+*.ovf       binary
+*.vmdk      binary
+*.vhd       binary
+*.vhdx      binary
+*.vdi       binary
+*.qcow2     binary
+*.iso       binary
+*.exe       binary
+*.dll       binary
 
 # Prevent certain files from being included in archive exports
 .gitattributes export-ignore

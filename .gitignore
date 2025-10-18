@@ -6,16 +6,18 @@
 **/firebase-admin-sdk.json
 firebase_admin_service_key.json
 
-# My Own Added .gitignore files
-Afangi_3/Flask_Projects/TechVerse_Blog_Project/storage/admin_sdk_service_key.json
-Afangi_3/Flask_Projects/TechVerse_Blog_Project/firebase-admin-sdk.json
+# KEST3DN: local VM downloads (huge files, keep out of Git)
+KEST3DN/Downloads_For_VM/
 
-# My Own Added .gitignore files
-Afangi_2/Timaverkefni_5/Timaverkefni_5_codes_and_videos.zip
-Afangi_2_V24/Timaverkefni_5/Timaverkefni_5_codes_and_videos.zip
-Afangi_2/Timaverkefni_5/verkefni_5_videos/
-Afangi_2_V24/Timaverkefni_5/verkefni_5_videos/
-
+# Common VM/ISO images (if they appear anywhere)
+*.ova
+*.ovf
+*.vmdk
+*.vhd
+*.vhdx
+*.vdi
+*.qcow2
+*.iso
 
 ####################################################################################################
 
@@ -26,14 +28,18 @@ node_modules/
 
 # Virtual environment
 .env
-.venv
+*.env
+.env.*
 env/
-venv/
 ENV/
 env.bak/
+
+# Python virtual environments
+.venv
+venv/
 venv.bak/
-*.json
-*.lock
+
+*.secrets.json
 *.log
 
 # Package Managers and Dependency Files
